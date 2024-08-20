@@ -21,4 +21,4 @@ const objectArray =[{userFirstName: "Tomas"}, {userLastName: "Erdal"},
 console.log(objectArray[3]);
 
 // Object Array = ulike object med array inne i seg
-const bigArray = {fruits: ["orange", "apple", "banana"], berry:[ "strawberry", "blueberry"]}
+const bigArray = {fruits: ["orange", "apple", "banana"], berry:[ "strawberry", "blueberry"]};
