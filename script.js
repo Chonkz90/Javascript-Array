@@ -22,3 +22,4 @@ console.log(objectArray[3]);
 
 // Object Array = ulike object med array inne i seg
 const bigArray = {fruits: ["orange", "apple", "banana"], berry:[ "strawberry", "blueberry"]};
+console.log(bigArray.berry[1]);
